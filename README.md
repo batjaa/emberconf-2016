@@ -9,7 +9,7 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 ### Live Blogs / Streams
 
 - [Marten Schilstra](https://usecanvas.com/dockyard/emberconf-2016/288vBvk9XoyPi2yoEl2GHn)
-- [Mehul Kar](https://www.periscope.tv/mehulkar/1vOxwQBOXXNGB)
+- [Okke Timm](https://www.periscope.tv/mehulkar/1vOxwQBOXXNGB)
 
 ### Talks
 
@@ -65,8 +65,6 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 - Slides: TBA
 - Links:
     + [ember-electron](https://github.com/felixrieseberg/ember-electron)
-    + [Ghost Desktop App](https://github.com/TryGhost/Ghost-Desktop)
-    + [electron](http://electron.atom.io/)
 
 #### How I Learned to Love Ember by [Ju Liu](https://twitter.com/@arkh4m)
 
@@ -77,11 +75,12 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 
 - Video: TBA
 - Slides: TBA
+- Links:
+    + [ember-cordova](https://github.com/isleofcode/ember-cordova)
 
 #### Living Style Guide Driven Development by [Chris LoPresto](https://twitter.com/chrislopresto)
 
 - Video: TBA
 - Slides: TBA
-- Links:
+- Links: 
     + [ember-freestyle](https://github.com/chrislopresto/ember-freestyle)
-    + [an agile design manifesto for ember js](https://medium.com/ember-js-framework/an-agile-design-manifesto-for-emberjs-faae08ce7869#.6294bg8jo)
