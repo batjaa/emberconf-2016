@@ -40,3 +40,4 @@ A collection of links that cover what happened during EmberConf 2016. There is a
     + [service-worker-cookbook](https://serviceworke.rs/)
     + [broccoli-serviceworker](https://github.com/jkleinsc/broccoli-serviceworker)
     + [serviceworker-toolbox](https://github.com/GoogleChrome/sw-toolbox)
+    + [TLDR: IndexedDB isn’t nearly the performance home-run...](http://nolanlawson.com/2015/09/29/indexeddb-websql-localstorage-what-blocks-the-dom/)
